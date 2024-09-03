@@ -1,0 +1,17 @@
+### Immune Checkpoints in Cancer
+
+Immune checkpoints are regulatory pathways in the immune system that play a crucial role in maintaining self-tolerance and modulating the duration and amplitude of immune responses in peripheral tissues. These checkpoints are essential for preventing autoimmunity, but in the context of cancer, they can be hijacked by tumors to avoid immune destruction. The discovery and therapeutic targeting of immune checkpoints have revolutionized cancer treatment, particularly in the form of immune checkpoint inhibitors.
+
+One of the most well-known immune checkpoints is the PD-1/PD-L1 pathway. Programmed cell death protein 1 (PD-1) is an inhibitory receptor expressed on T cells, and its ligand, PD-L1, is often overexpressed on tumor cells and tumor-infiltrating immune cells (Bojana Gutic, 2023). When PD-1 binds to PD-L1, it transmits an inhibitory signal that reduces the proliferation of T cells and suppresses their ability to attack tumor cells. This mechanism allows cancer cells to evade immune surveillance. The development of anti-PD-1 and anti-PD-L1 antibodies, such as pembrolizumab and nivolumab, has been a major breakthrough in cancer therapy, particularly for melanoma, non-small cell lung cancer, and renal cell carcinoma. These therapies block the interaction between PD-1 and PD-L1, thereby restoring T cell function and enhancing the body's ability to fight cancer.
+
+Another critical immune checkpoint is CTLA-4 \[Cytotoxic T-Lymphocyte Associated Protein 4] (https\://www\.ncbi.nlm.nih.gov/gene/1493) , which functions as an "off" switch when bound to its ligands, CD80 or CD86, on antigen-presenting cells. CTLA-4 competes with the stimulatory receptor CD28 for binding to these ligands, thereby attenuating T cell activation. Ipilimumab, an anti-CTLA-4 antibody, was the first immune checkpoint inhibitor to be approved for cancer treatment. It has shown significant survival benefits in patients with metastatic melanoma.
+
+The importance of immune checkpoints in cancer biomarker discovery cannot be overstated. The expression levels of PD-L1 in tumors, for instance, are used as a predictive biomarker to identify patients who are more likely to respond to anti-PD-1/PD-L1 therapies. Moreover, the development of resistance to these therapies has prompted further research into additional checkpoints and combinatory treatments that could enhance therapeutic efficacy.
+
+In conclusion, immune checkpoints represent a pivotal concept in cancer immunotherapy. Their discovery has not only provided a deeper understanding of tumor immune evasion mechanisms but has also led to the development of therapies that have significantly improved survival outcomes for patients with various types of cancer. The ongoing research into immune checkpoints continues to open new avenues for personalized cancer treatment strategies.
+
+Sources:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10025950/
+https://www.ncbi.nlm.nih.gov/gene/1493
+https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1298571/full
