@@ -10,5 +10,12 @@ The importance of immune checkpoints in cancer biomarker discovery cannot be ove
 
 In conclusion, immune checkpoints represent a pivotal concept in cancer immunotherapy. Their discovery has not only provided a deeper understanding of tumor immune evasion mechanisms but has also led to the development of therapies that have significantly improved survival outcomes for patients with various types of cancer. The ongoing research into immune checkpoints continues to open new avenues for personalized cancer treatment strategies.
 
-Reading:
-https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1298571/full
+References:
+1. Kamali AN, Bautista JM, Eisenhut M, Hamedifar H. Immune checkpoints and cancer immunotherapies: insights into newly potential receptors and ligands.
+  Ther Adv Vaccines Immunother. 2023 Aug 30;11:25151355231192043. doi: 10.1177/25151355231192043. PMID: 37662491; PMCID: PMC10469281.
+2. Gutic B, Bozanovic T, Mandic A, Dugalic S, Todorovic J, Stanisavljevic D, Dugalic MG, Sengul D, Detanac DA, Sengul I, Detanac D, Soares JM Junior. Programmed cell death-1 and its ligands: Current knowledge and possibilities in immunotherapy.
+    Clinics (Sao Paulo). 2023 Mar 14;78:100177. doi: 10.1016/j.clinsp.2023.100177. PMID: 36931099; PMCID: PMC10025950.
+3. Gil-Ran Kim, Je-Min Choi, Current Understanding of Cytotoxic T Lymphocyte Antigen-4 (CTLA-4) Signaling in T-Cell Biology and Disease Therapy.
+    Molecules and Cells, Volume 45, Issue 8, 2022, Pages 513-521, ISSN 1016-8478. https://doi.org/10.14348/molcells.2022.2056.
+4. Mejía-Guarnizo Lidy Vannessa , Monroy-Camacho Paula Stefany , Turizo-Smith Andrés David , Rodríguez-García Josefa Antonia, The role of immune checkpoints in antitumor response: a potential antitumor immunotherapy.
+    Frontiers in Immunology, Volume 14, 2023, https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1298571, doi: 10.3389/fimmu.2023.1298571.
